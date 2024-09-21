@@ -1,0 +1,17 @@
+{
+    "toggle_front_driver_door": "Åpne/lukke venstre foran",
+    "toggle_front_passenger_door": "Åpne/lukke høyre foran",
+    "toggle_rear_driver_door": "Åpne/lukke venstre bak",
+    "toggle_rear_passenger_door": "Åpne/lukke høyre bak",
+    "toggle_hood": "Åpne/lukke panser",
+    "toggle_trunk": "Åpne/lukke bagasjerom",
+    "debug_box": "(Debug) Box",
+    "debug_sphere": "(Debug) Sphere",
+    "debug_police_car": "Politi",
+    "debug_ped": "(Debug) Ped",
+    "debug_vehicle": "(Debug) Vehicle",
+    "debug_object": "(Debug) Object",
+    "toggle_targeting": "Bruk øyet",
+    "go_back": "Tilbake"
+  }
+  
